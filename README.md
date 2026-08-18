@@ -81,4 +81,3 @@ During a real-world spatiotemporal audit, GeoSense isolated a critical GPS spoof
 🛡️ **Diploma in Warehouse Management** (Alison, Distinction)
 
 🛡️ **100% English Proficiency Score** (EF Standardized Assessment)
-
